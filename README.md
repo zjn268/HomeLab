@@ -1,3 +1,3 @@
 # HomeLab
 
-[image info](main/homelab_layout.png)
+[image info](homelab_layout.png)
